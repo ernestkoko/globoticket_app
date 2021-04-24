@@ -1,0 +1,11 @@
+{
+  "title": "Ticket Purchase",
+  "eventdate-label": "Event Date",
+  "eventdate-hint": "Enter event date",
+  "category-label": "Seat Category",
+  "category-hint": "Choose a seat category",
+  "amount-label": "Amount",
+  "amount-hint": "Enter number of tickets",
+  "order": "Order",
+  "confirmation": "You ordered XXX tickets for a total of $YYY."
+}

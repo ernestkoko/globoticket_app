@@ -1,0 +1,11 @@
+{
+  "title": "Kartenkauf",
+  "eventdate-label": "Datum",
+  "eventdate-hint": "Geben Sie ein Datum an",
+  "category-label": "Platzkategorie",
+  "category-hint": "Wählen Sie eine Platzkategorie aus",
+  "amount-label": "Anzahl",
+  "amount-hint": "Geben Sie die Kartenanzahl an",
+  "order": "Bestellen",
+  "confirmation": "Sie haben XXX Tickets für insgesamt $YYY bestellt."
+}

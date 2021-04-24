@@ -1,0 +1,11 @@
+{
+  "title": "רכישת כרטיס",
+  "eventdate-label": "תאריך אירוע",
+  "eventdate-hint": "הזן תאריך אירוע",
+  "category-label": "קטגוריית מושב",
+  "category-hint": "הזן קטגוריית מושב",
+  "amount-label": "כמות",
+  "amount-hint": "הזן כמות כרטיסים",
+  "order": "להורות",
+  "confirmation": "הזמנתם XXX כרטיסים בסכום כולל של YYY $."
+}
